@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Allergy]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Name] NCHAR(30) NOT NULL
+)

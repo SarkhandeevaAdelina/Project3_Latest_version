@@ -1,0 +1,1 @@
+﻿INSERT INTO [User] (Email, Login, Password, SecondName,FirstName, Patronymic) VALUES ('sarhandeeva.04@gmail.com','0405','2004',N'Сархандеева',N'Аделина',N'Алексеевна')
